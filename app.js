@@ -6,6 +6,6 @@ app.get('/', (req, res) => {
 res.send('hello AWS');
 })
 
-app.listen(3000, () => {
+app.listen(8080, () => {
     console.log('server started')
 })
