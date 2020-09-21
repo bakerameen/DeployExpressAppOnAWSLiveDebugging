@@ -20,5 +20,5 @@ res.send('hello AWS');
 })
 
 app.listen(8080, () => {
-    console.log('server started')
+    console.log('server started?')
 })
