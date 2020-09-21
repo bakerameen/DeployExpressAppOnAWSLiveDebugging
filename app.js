@@ -16,7 +16,7 @@ mongoose
   });
 
 app.get('/', (req, res) => {
-res.send('hello AWS');
+res.send('hello AWS 2020');
 })
 
 app.listen(8080, () => {
